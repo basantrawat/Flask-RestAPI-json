@@ -1,0 +1,23 @@
+{
+    "users":[
+            {
+                "name": "Ram Prashad",
+                "age": 23,
+                "gender": "Male",
+                "address": {
+                            "city": "Gurgaon",
+                            "state": "Haryana"
+                }
+            },
+
+            {
+                "name": "Radhika Atwal",
+                "age": 34,
+                "gender": "Female",
+                "address": {
+                            "city": "New Delhi",
+                            "state": "New Delhi"
+                }
+            }
+            ]
+}
